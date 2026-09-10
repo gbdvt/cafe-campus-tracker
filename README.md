@@ -1,0 +1,1 @@
+tracks every 5 seconds whether a cafe campus event still has remaining tickets or is sold out. extracts info like timestamp, event_id, status, tag, rate_name, remaining, qty_min, qty_max, price, queue_users, queue_state, queue_rank, queue_total, message
