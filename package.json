@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "playwright": "^1.63.0"
+  "name": "cafe-campus-tracker",
+  "private": true,
+  "description": "Poll Café Campus ticket availability and log changes to CSV",
+  "scripts": {
+    "start": "node tracker.js"
   }
 }
